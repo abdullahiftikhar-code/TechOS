@@ -33,7 +33,7 @@ def open_Terminal():
 def App_Installer():
 	os.system("python app_installer.py")
 def Music_Player():
-	print("python musicPlayer.py")
+	os.system("python musicPlayer.py")
 # Creating the start menu
 
 
